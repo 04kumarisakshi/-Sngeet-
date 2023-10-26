@@ -1,0 +1,15 @@
+*{
+    background-color: black;
+}
+
+.box > button{
+
+background-color: black;
+border-color: rgb(72, 27, 217);
+}
+
+.box{
+    padding-left: 500px;
+    display: flex;
+    flex-direction: column;
+}
